@@ -1,0 +1,425 @@
+.elementor-kit-3408{--e-global-color-primary:#E70007;--e-global-color-secondary:#101A24;--e-global-color-text:#101A24;--e-global-color-accent:#226071;--e-global-color-1c7e70f:#101A24;--e-global-color-8f39fcb:#E70007;--e-global-color-f4327e0:#A1B8BE;--e-global-color-fd670d6:#E9EEF0;--e-global-color-d8e6b5a:#F3F8F9;--e-global-color-206c06c:#FFFFFF;--e-global-color-bb3152a:#C7D2D4;--e-global-color-ea61443:#9C0005;--e-global-color-eccbaf6:#293544;--e-global-color-c2bc3d4:#8CA1A6;--e-global-color-78d8754:#000;--e-global-color-5fce029e:#FFF;--e-global-color-1c6b912e:#757575;--e-global-color-28fc1504:#232223;--e-global-color-46d08614:#D2232A;--e-global-color-379b6fc4:#93272C;--e-global-color-5cee2170:#646464;--e-global-color-427443ad:#E6E6E6;--e-global-color-4dc0b949:#F3F8F9;--e-global-color-7642e6fc:#FF8000;--e-global-color-7b00d3ed:#51A300;--e-global-color-364e8aab:#4285F4;--e-global-color-57db7284:#8D54AC;--e-global-color-7321c0d3:#1CCBBD;--e-global-color-48c39896:#00C389;--e-global-color-b887efd:#FA3232;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-size:64px;--e-global-typography-primary-font-weight:normal;--e-global-typography-primary-font-style:normal;--e-global-typography-primary-text-decoration:none;--e-global-typography-primary-letter-spacing:0px;--e-global-typography-secondary-font-family:"Bebas Neue";--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-line-height:30em;--e-global-typography-secondary-letter-spacing:0px;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:28px;--e-global-typography-text-letter-spacing:0px;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:var( --e-global-color-text );font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;line-height:28px;background-color:#FFFFFF;}.elementor-kit-3408 p{margin-bottom:28px;}.elementor-kit-3408 a{color:var( --e-global-color-primary );font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;text-decoration:none;}.elementor-kit-3408 a:hover{color:var( --e-global-color-ea61443 );}.elementor-kit-3408 h1{color:var( --e-global-color-text );font-family:"Roboto", Sans-serif;font-size:64px;font-weight:700;line-height:1.1em;letter-spacing:0px;}.elementor-kit-3408 h2{color:var( --e-global-color-text );font-family:"Roboto", Sans-serif;font-size:40px;font-weight:700;line-height:1.3em;}.elementor-kit-3408 h3{color:var( --e-global-color-text );font-family:"Roboto", Sans-serif;font-size:24px;font-weight:400;line-height:1.3em;}.elementor-kit-3408 h4{color:var( --e-global-color-primary );font-family:"Roboto", Sans-serif;font-size:24px;font-weight:400;line-height:30px;}.elementor-kit-3408 h5{color:#232223;font-family:"Roboto", Sans-serif;font-size:18px;font-weight:500;line-height:28px;}.elementor-kit-3408 h6{color:var( --e-global-color-f4327e0 );font-family:"Roboto", Sans-serif;font-size:14px;font-weight:500;line-height:23px;}.elementor-kit-3408 button,.elementor-kit-3408 input[type="button"],.elementor-kit-3408 input[type="submit"],.elementor-kit-3408 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:600;color:#FFFFFF;background-color:var( --e-global-color-primary );border-radius:5px 5px 5px 5px;}.elementor-kit-3408 button:hover,.elementor-kit-3408 button:focus,.elementor-kit-3408 input[type="button"]:hover,.elementor-kit-3408 input[type="button"]:focus,.elementor-kit-3408 input[type="submit"]:hover,.elementor-kit-3408 input[type="submit"]:focus,.elementor-kit-3408 .elementor-button:hover,.elementor-kit-3408 .elementor-button:focus{color:#FFFFFF;background-color:var( --e-global-color-ea61443 );}.elementor-kit-3408 label{color:#232223;font-family:"Roboto", Sans-serif;line-height:2.6em;}.elementor-kit-3408 input:not([type="button"]):not([type="submit"]),.elementor-kit-3408 textarea,.elementor-kit-3408 .elementor-field-textual{font-family:"Roboto", Sans-serif;color:#232223;background-color:#F5F8FA;border-style:solid;border-width:1px 1px 1px 1px;border-color:#CBD6E2;border-radius:5px 5px 5px 5px;padding:12px 12px 12px 12px;}.elementor-kit-3408 input:focus:not([type="button"]):not([type="submit"]),.elementor-kit-3408 textarea:focus,.elementor-kit-3408 .elementor-field-textual:focus{color:#232223;border-style:solid;border-width:1px 1px 1px 1px;border-color:#4285F4;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1366px;}.e-con{--container-max-width:1366px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-3408 e-page-transition{background-color:#FFBC7D;}@media(max-width:909px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//* Enter Your Custom CSS Here */
+
+.hidden {
+    display:none;
+}
+
+/* Fonts */
+
+/*@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');*/
+
+
+
+
+
+@media screen and (max-width: 909px) and (min-width: 767px) {
+  h1  {
+		font-size: 45px !important;
+	}l
+	h2  {
+		font-size: 28px !important;
+	}
+	h3  {
+		font-size: 22px !important;
+    }
+}
+
+
+@media (max-width: 767px) and (min-width: 500px) {
+  h1  {
+		font-size: 38px !important;
+	}lo
+	h2  {
+		font-size: 28px !important;
+	}
+	h3  {
+		font-size: 22px !important;
+    }
+}
+
+@media (max-width: 500px) {
+  h1  {
+		font-size: 28px !important;
+	}
+	h2  {
+		font-size: 24px !important;
+	}
+	h3  {
+		font-size: 20px !important;
+    }
+	h4  {
+		font-size: 20px !important;
+  }
+}
+
+.mediumtext {
+    font-weight: 500;
+}
+
+
+
+/* Error pages */
+
+@media (max-width: 600px) {
+    .hideonmobile  {
+        display:none;
+    }
+}
+
+.elementor-button-content-wrapper.error-button {
+    text-decoration: none;
+}
+
+
+/* Breadcrumbs */
+
+.breadcrumb-on-image span {
+    background-color: #101A24;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+/* Header */
+
+#mega {
+    max-height: 82px !important;
+}
+
+/* Navigation Search Icon */
+
+.jet-menu-icon {
+		font-size: 24px!important;
+}
+
+
+/* Tablet Navigation
+ * Hides the chevrons on tablet */
+
+@media only screen and (max-width: 909px) {
+.jet-dropdown-arrow.fa.fa-angle-down {
+    display:none;
+}
+}
+
+
+/* Mobile Navigation */
+
+.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+	margin-top: 0px;
+}
+
+.logo-mobile .attachment-large.size-large {
+    width: 90px !important;
+}
+
+/* Resolved an issue where hidden elements could still be focused, like the mobile navigation */
+
+/*.elementor-nav-menu--dropdown.elementor-nav-menu__container[aria-hidden="true"]:not(.eicon-menu-bar) {
+    display:none;
+}*/
+
+
+/* Footer */
+
+/*html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: table;
+}*/
+
+.elementor.elementor-16182.elementor-location-footer,
+.elementor.elementor-3358.elementor-location-footer {
+    display: table-footer-group;
+    height: 1px;
+		vertical-align:bottom;
+		width:100%;
+}
+
+
+
+
+/* Cookiebot */
+
+#CybotCookiebotDialogBodyContentTitle {
+    font-size: 12pt !important;
+}
+
+#CybotCookiebotDialogBodyContentText {
+    margin-bottom: -28px;
+}
+
+a#CybotCookiebotDialogPoweredbyCybot {
+    display: none;
+}
+
+
+/* Hotjar */
+
+._hj-cp7UI__HotjarBranding__hotjarBranding {
+    display: none;
+}
+
+
+/* Content Z-Index */
+
+.container {
+    z-index: 1;
+}
+
+
+/* Customer Cases / Portfolio */
+
+.sidebar .widget_latest_posts_menu.posts_holder .menu_recent_post_text {
+    display:none !important;
+}
+.blog_holder.blog_single .date, .blog_holder.blog_single .post_info{
+    display:none !important;
+}
+
+div.post_text_inner {
+	padding-top:0px !important;
+}
+
+body.single.single-customer_stories .blog_holder article .post_image {
+    display: none;
+}
+
+/* Technology Partners*/
+
+body.single.single-technology_partners .blog_holder article .post_image {
+    display: none;
+}
+
+
+/* Vacancies */
+
+body.single.single-vacancies .blog_holder article .post_image {
+    display: none;
+}
+
+
+/* Downloads */
+
+body.single.single-downloads .blog_holder article .post_image {
+    display: none;
+}
+
+.logo-download.elementor-widget-image .elementor-image > a img[src$=".svg"], 
+.logo-download.elementor-widget-image .elementor-image figure > a img[src$=".svg"] {
+    width: 160px;
+}
+
+
+/* Locations */
+
+body.single.single-locations .blog_holder article .post_image {
+    display: none;
+}
+
+.highlighth1 h1{
+	background-color:hotpink;
+}
+
+
+
+
+/* News / Blog */
+
+body.single.single-post .blog_holder article .post_image {
+    display: none;
+}
+
+.entry_title {
+    display: none !important;
+}
+
+.share .elementor-grid-item { 
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.related ul {
+    padding-left: 16px;
+}
+
+
+#comments {
+    display: none;
+}
+
+
+/* Forms */
+
+.footer-subscribe .hs-button.primary.large {
+	font-family: "Roboto", Sans-serif;
+	font-weight: 600;
+	color: #FFFFFF;
+	background-color: #e70007;
+	border-radius: 5px 5px 5px 5px;
+	font-size: 20px;
+	border: 0px;
+	padding: 5px 5px;
+	left: 0;
+	width: 100% !important;
+	cursor: pointer;
+	margin-top: 12px;
+	user-select: none;
+}
+
+.footer-subscribe .hs-button.primary.large:hover {
+	color: #e70007;
+	background-color: #FFFFFF;
+} 
+
+#email-e027cd58-c284-4379-8d64-00cfff298af3 {
+	font-family: "Roboto", Sans-serif;
+	font-size: 15px;
+	width: 100% !important;
+	border-radius: 5px 5px 5px 5px;
+	padding: 10px;
+	border: 0px;
+	min-height:36px;
+}
+
+.footer-subscribe p {
+	color:#ffffff;
+}
+
+.footer-subscribe .emoji {
+    filter: brightness(1000%);
+}
+
+.footer-subscribe .hs-error-msg,
+.footer-subscribe li {
+	font-family: "Roboto", Sans-serif;
+	font-size: 13px;
+	color: #E7E7E7;
+}
+
+
+/* Career  */
+
+.career .jet-posts__inner-content {
+	padding-top: 12px;
+	padding-bottom: 16px;
+	border-top: 2px solid #E6E6E6;
+	display: flex;
+}
+
+.career .jet-posts .jet-more {
+	position: absolute;
+  right: 0;
+  margin-top: 6px;
+}
+
+.career .jet-posts__item.col-desk-1 {
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+.career .jet-posts .jet-more-wrap {
+	float: right;
+}
+
+@media only screen and (max-width: 700px) {
+	.career .jet-posts__inner-content {
+    display: block ;
+}
+.career .jet-posts .jet-more-wrap {
+	float: left;
+	margin-top:5px;
+	margin-bottom:16px;
+}
+	.career .jet-posts .jet-more {
+	position: relative;
+}
+}
+
+
+/* Vacancies */
+
+.jet-title-fields__item.jet-title-fields__item-working_schedule,
+.jet-title-fields__item.jet-title-fields__item-experience,
+.jet-title-fields__item.jet-title-fields__item-work_location {
+    line-height: 22px;
+}
+
+
+
+
+/* Consumer Game Servers */
+
+.vacancies .jet-more-wrap,
+.gameservers .jet-more-wrap {
+    margin-top:16px;
+} 
+
+.gameservers .post-thumbnail__img.wp-post-image {
+    margin-bottom: 16px;
+}
+.jet-title-fields__item.jet-title-fields__item-price {
+    font-weight: 700;
+}
+
+
+/* Logo on dark background with full brightness */
+
+.logo-white img {
+    filter: brightness(0) invert(1);
+}
+
+
+/* Shape Divider / Diagonal background Chrome bug */
+.elementor-shape-bottom svg { z-index: -1; }
+}
+
+
+/* Flags */
+ 
+flag-NL,
+flag-US {
+	stroke-width:0px !important;
+	stroke:transparent !important;
+}
+
+
+@media (max-width: 768px) {
+.flag-phone .attachment-full.size-full {
+    margin-right: 8px !important;
+	}
+	
+.flag-phone .elementor-image-box-wrapper {
+    display: flex !important;
+}
+}
+
+
+/* My IP Address IPv6 compatible */
+
+.my-ip {
+    overflow-wrap: break-word;
+}
+
+
+/* Homepage customer story boxes on red background */
+.shadow-container .elementor-widget-wrap {
+    align-content: space-between;
+}
+
+
+/* Main Menu */
+#jet-menu-item-73036 > a, #jet-menu-item-73048 > a, #jet-menu-item-76597 > a, #jet-menu-item-76603 > a, #jet-menu-item-76612 > a {
+    cursor: pointer;
+}
+
+/* 
+    READ ME!!
+    
+    If you are here to add CSS, don't! All CSS must be added in theme folder. Talk to Kyle.
+    
+*//* End custom CSS */

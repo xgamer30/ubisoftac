@@ -1,0 +1,6 @@
+const wrapper=document.querySelector('.carousel-slides');const slides=document.querySelectorAll('.carousel-item');const thumbnails=document.querySelectorAll('.thumbnail');const thumbnailsContainer=document.querySelector('.thumbnails-container');const slideInterval=8000;let currentSlide=0;let autoScrollInterval;updateSlide();startAutoScroll();function nextSlide(){currentSlide=(currentSlide+1)%slides.length;updateSlide();stopAutoScroll()}
+function prevSlide(){currentSlide=(currentSlide-1+slides.length)%slides.length;updateSlide();stopAutoScroll()}
+function goToSlide(index){currentSlide=index;updateSlide();stopAutoScroll()}
+function updateSlide(){wrapper.scroll({left:currentSlide*slides[0].offsetWidth,behavior:'smooth',});thumbnails.forEach((thumbnail,index)=>{thumbnail.classList.toggle('active',index===currentSlide)});const thumbnailWidth=thumbnails[0].offsetWidth;const thumbnailsContainerWidth=thumbnailsContainer.offsetWidth;const activeThumbnailLeft=thumbnails[currentSlide].offsetLeft;const activeThumbnailCenter=activeThumbnailLeft-(thumbnailsContainerWidth-thumbnailWidth)/2;thumbnailsContainer.scroll({left:activeThumbnailCenter,behavior:'smooth',})}
+function startAutoScroll(){autoScrollInterval=setInterval(function(){currentSlide=(currentSlide+1)%slides.length;updateSlide()},slideInterval)}
+function stopAutoScroll(){clearInterval(autoScrollInterval)}
